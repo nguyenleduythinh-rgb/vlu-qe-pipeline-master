@@ -1,5 +1,8 @@
 // auth.js
-
+// ==========================================
+// Last updated: CI/CD Pipeline Verification
+// Version: 1.0.1
+// ==========================================
 // Giả lập cơ sở dữ liệu tài khoản
 const USERS_DB = {
   admin: { password: '123', isLocked: false },
