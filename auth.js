@@ -7,7 +7,7 @@
 const USERS_DB = {
   admin: { password: '123', isLocked: false },
   john_doe: { password: 'P@ssword!2026', isLocked: false },
-  locked_user: { password: '9999', isLocked: true }
+  locked_user: { password: '123', isLocked: true }
 };
 
 /**
