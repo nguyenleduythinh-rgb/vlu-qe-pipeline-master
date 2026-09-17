@@ -5,9 +5,9 @@
 // ==========================================
 // Giả lập cơ sở dữ liệu tài khoản
 const USERS_DB = {
-  admin: { password: '9999', isLocked: false },
+  admin: { password: '123', isLocked: false },
   john_doe: { password: 'P@ssword!2026', isLocked: false },
-  locked_user: { password: '9999', isLocked: true }
+  locked_user: { password: '123', isLocked: true }
 };
 
 /**
